@@ -1,5 +1,16 @@
 # 📝 Teste Motoca Systems - Desenvolvedor Front-End
 
+Este comando inicia o JSON Server, que simula uma API REST usando o arquivo `server.json` como fonte de dados.
+
+```sh
+npm run dev:server
+```
+Este comando inicia o servidor de desenvolvimento usando Vite,
+
+```sh
+npm run dev
+```
+
 ## 📄 Descrição
 
 Bem-vindo ao teste de contratação para a vaga de Desenvolvedor Front-End. Neste teste, você terá a oportunidade de demonstrar suas habilidades em **React** ou **Vue**, **HTML**, **CSS** e **JavaScript** ao criar uma aplicação CRUD baseada em um layout fornecido no Figma.
