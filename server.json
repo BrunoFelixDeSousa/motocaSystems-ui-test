@@ -1,0 +1,18 @@
+{
+  "motorcycle": [
+    {
+      "id": "73f9",
+      "modelo": "cg titan 160",
+      "valor": "180",
+      "cor": "zul",
+      "status": "Sem estoque"
+    },
+    {
+      "id": "5f49",
+      "modelo": "CB1000",
+      "valor": "78000",
+      "cor": "BLACK",
+      "status": "Em estoque"
+    }
+  ]
+}
