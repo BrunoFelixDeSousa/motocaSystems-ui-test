@@ -11,16 +11,25 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@tanstack/react-query": "^5.51.15",
+=======
+>>>>>>> 9a4d415fd68233259f879f91e12de5dbd43a8871
     "axios": "^1.7.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.23.1",
+<<<<<<< HEAD
     "styled-components": "^6.1.11",
     "teste-motoca-systems": "file:"
   },
   "devDependencies": {
     "@tanstack/eslint-plugin-query": "^5.51.15",
+=======
+    "styled-components": "^6.1.11"
+  },
+  "devDependencies": {
+>>>>>>> 9a4d415fd68233259f879f91e12de5dbd43a8871
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",
     "@typescript-eslint/eslint-plugin": "^7.2.0",

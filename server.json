@@ -1,17 +1,37 @@
 {
   "motorcycle": [
     {
+<<<<<<< HEAD
       "id": "73f9",
       "modelo": "cg titan 160",
       "valor": "180",
+=======
+      "id": "07b3",
+      "modelo": "Twister 300",
+      "valor": "80000",
+      "cor": "vermelh0",
+      "status": "Em trânsito"
+    },
+    {
+      "id": "73f9",
+      "modelo": "cg titan 160",
+      "valor": "18000",
+>>>>>>> 9a4d415fd68233259f879f91e12de5dbd43a8871
       "cor": "zul",
       "status": "Sem estoque"
     },
     {
+<<<<<<< HEAD
       "id": "5f49",
       "modelo": "CB1000",
       "valor": "78000",
       "cor": "BLACK",
+=======
+      "id": "1402",
+      "modelo": "bis 125",
+      "valor": "21000",
+      "cor": "branca",
+>>>>>>> 9a4d415fd68233259f879f91e12de5dbd43a8871
       "status": "Em estoque"
     }
   ]

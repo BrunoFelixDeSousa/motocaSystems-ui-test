@@ -31,6 +31,13 @@ export const FormGroup = styled.div`
       padding: 0 0.5rem; /* Espaçamento ao redor do texto */
       font-size: 1rem;
       color: ${(props) => props.theme['cinza-300']};
+<<<<<<< HEAD
+=======
+
+      &.collor-gray {
+        color: ${(props) => props.theme['cinza-600']};
+      }
+>>>>>>> 9a4d415fd68233259f879f91e12de5dbd43a8871
     }
   }
 `
@@ -41,6 +48,13 @@ export const Input = styled.input`
   background-color: transparent;
   color: ${(props) => props.theme['cinza-300']};
 
+<<<<<<< HEAD
+=======
+  &.letter-collor {
+    color: ${(props) => props.theme['cinza-600']};
+  }
+
+>>>>>>> 9a4d415fd68233259f879f91e12de5dbd43a8871
   &.uppercase {
     text-transform: uppercase;
   }
